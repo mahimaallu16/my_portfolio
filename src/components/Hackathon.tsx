@@ -6,7 +6,7 @@ const Hackathon = () => {
   const hackathonProject = {
     title: 'Automatic Billing Cart System IOT',
     description: 'Developed an embedded IoT-based project to streamline billing processes in retail stores and supermarkets. The system uses an Arduino UNO, LCD Display with I2C, and EM18 RFID module to automatically identify products through RFID tags. Each product\'s details (name, quantity, and price) are displayed on the LCD, and the total bill is calculated automatically at checkout, making the shopping experience seamless and efficient.',
-    image: 'public/images/WhatsApp Image 2025-06-11 at 18.35.26_c882f160.jpg',
+    image: 'phttps://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16b1b879-e124-4fef-bdb2-2965da290a18_1080x720.jpeg',
     tags: ['Arduino', 'IoT', 'RFID', 'Embedded Systems', 'C++', 'I2C', 'LCD Display'],
 
     achievements: [
