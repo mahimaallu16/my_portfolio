@@ -38,7 +38,7 @@ const About = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-emerald-400 via-purple-500 to-emerald-400 p-1">
                 <div className="w-full h-full rounded-3xl bg-slate-900 flex items-center justify-center relative overflow-hidden">
                   <img 
-                    src="public\images\mahima.jpg" 
+                    src="https://substackcdn.com/image/fetch/w_168,h_168,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F275ebbbb-9581-426a-94f8-763aca6250a6_749x749.jpeg" 
                     alt="Profile" 
                     className="text-gray-400 z-10 object-cover w-full h-full" 
                   />
