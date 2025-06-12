@@ -127,7 +127,7 @@ const Hero = () => {
             className="relative w-32 h-32 md:w-40 md:h-40 mx-auto"
           >
             <img 
-              src="public\images\mahima.jpg" 
+              src="https://substackcdn.com/image/fetch/w_168,h_168,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F275ebbbb-9581-426a-94f8-763aca6250a6_749x749.jpeg" 
               alt="Avatar" 
               className="w-full h-full rounded-full object-cover"
             />
